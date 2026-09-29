@@ -1,4 +1,4 @@
-# 📊 Hacker News Data Analysis: User Trends in Activity
+# 📊 Hacker News Data Analysis: Trends in User Activity
 
 ## 📌 Overview
 By analyzing data from user-generated posts, this study identifies trends in popular Hacker News topics to determine whether "Ask Hacker News" or "Show Hacker News" posts are more popular amongst users. 
